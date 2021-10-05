@@ -14,6 +14,8 @@ Barcelona és una ciutat i metròpoli a la costa mediterrània de la península 
 - Les Corts
 - Sants-Montjuic
 
+És el principal nucli urbà de la regió metropolitana de Barcelona, que aglutina 4 774 561 habitants.
+
 [Més informació](https://www.barcelona.cat/ca/)
 
 ![](https://img.freepik.com/vector-gratis/silueta-ciudad-barcelona_8382-544.jpg?size=626&ext=jpg)
